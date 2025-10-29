@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.env/
+.env*/
+
+# Large data files
+*.csv
+*.csv.gz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+
+05_random_forest/creditcard.csv
